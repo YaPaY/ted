@@ -37,7 +37,7 @@
 		"ws": "^0.8.0"
 	},
 	"config":{
-		"backgroundСolor": "#2D2D2D",
+		"backgroundColor": "#2D2D2D",
 		"icons": "icons"
 	}
 }
