@@ -1,13 +1,13 @@
 {
 	"name": "ted",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "TED is a platform for ideas worth spreading. Started in 1984 as a conference where technology, entertainment and design converged, TED today shares ideas from a broad spectrum — from science to business to global issues — in more than 100 languages. Meanwhile, independent TEDx events help share ideas in communities around the world.",
 	"author": {
-	  "name": "wilharriss"
+		"name": "wilharriss"
 	},
 	"repository": {
-	  "type": "git",
-	  "url": "https://github.com/wilharriss/ted.git"
+		"type": "git",
+		"url": "https://github.com/wilharriss/ted.git"
 	},
 	"dependencies": {
 		"code-proxy": "^1.2.21",
@@ -36,6 +36,7 @@
 		"weinre": "^2.0.0-pre-I0Z7U9OV",
 		"ws": "^0.8.0"
 	},
+	"license": "GPL-3.0",
 	"config":{
 		"backgroundColor": "#2D2D2D",
 		"icons": "icons"
